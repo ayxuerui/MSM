@@ -2,7 +2,7 @@
 // @name         MSM Reservation
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://github.com/ayxuerui/MSM/blob/master/user.js
-// @version      0.1
+// @version      0.11
 // @description  try to take over the world!
 // @author       You
 // @match        http://scheduling.msmnyc.edu/*
