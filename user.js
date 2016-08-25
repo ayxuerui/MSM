@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MSM Reservation
 // @namespace    http://tampermonkey.net/
-// @updateURL    
+// @updateURL    https://github.com/ayxuerui/MSM/blob/master/user.js
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
